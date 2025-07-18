@@ -6,7 +6,6 @@ import { services } from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
 import { SectionWrapper } from '../hoc';
 
-// eslint-disable-next-line react-refresh/only-export-components, react/prop-types
 const ServiceCard = ({ index, title, icon }) => (
   <Tilt
     className='xs:w-[250px] w-full'
@@ -34,7 +33,7 @@ const ServiceCard = ({ index, title, icon }) => (
   </Tilt>
 );
 
-// eslint-disable-next-line react-refresh/only-export-components
+
 const About = () => {
   return (
     <>
