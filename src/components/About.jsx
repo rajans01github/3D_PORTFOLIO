@@ -47,11 +47,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Im a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. Im a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Lets work together to bring your ideas to life!
+        Rajan Pandey — a dedicated software developer from Chandigarh University, with sharp command over TypeScript, JavaScript, React.js, Node.js, and Three.js.
+        Known for building immersive 3D experiences, robust backend systems, and clean, scalable frontends tailored to real-world needs.
+         Trained through hands-on projects including placement platforms, AI-powered spam detectors, and interactive portfolios. A calm mind,
+         fast hands, and a relentless drive to deliver code that performs — and inspires.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
